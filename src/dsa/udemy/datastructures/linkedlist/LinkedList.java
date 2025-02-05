@@ -1,4 +1,4 @@
-package dsa.udemy.datastructures;
+package dsa.udemy.datastructures.linkedlist;
 public class LinkedList {
 
 	// CREATE CLASS VARIABLES, NODE CLASS, AND CONSTRUCTOR HERE //

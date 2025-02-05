@@ -1,4 +1,4 @@
-package dsa.udemy.datastructures;
+package dsa.udemy.datastructures.linkedlist;
 public class Main {
 
     public static void main(String[] args) {
@@ -12,6 +12,8 @@ public class Main {
 
         System.out.println("\nLinked List:");
         myLinkedList.printList();
+        
+        System.out.println((1-1)< 0);
 
         /*
             EXPECTED OUTPUT:
